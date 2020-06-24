@@ -18,3 +18,4 @@ CSS
 
 * CSS grid layouts
 * CSS Flexbox
+* CSS outlines zijn veel handiger dan borders
