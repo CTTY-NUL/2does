@@ -13,9 +13,11 @@
 
 Meer CSS3 en HTML5 leren:
 
-CSS
----
+HTML & CSS
+----------
 
 * CSS grid layouts
 * CSS Flexbox
 * CSS outlines zijn veel handiger dan borders
+* Web components https://developer.mozilla.org/en-US/docs/Web/Web_Components
+* https://plugins.jetbrains.com/plugin/11541-w3c-validators
