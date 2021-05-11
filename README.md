@@ -1,6 +1,6 @@
 # 2does
 
-* Leren API key verstoppen
+* Leren API key verstoppen (google "hide api key from github")
 * JSON parsen met Jackson o.i.d.
 * BlankSlate thema aanpassen en toevoegen aan Github 
 * Handig worden met YouTrack & Github Issues
