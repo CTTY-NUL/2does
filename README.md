@@ -10,7 +10,7 @@
 * GUI applicaties leren
 * *Method Overloading*: uitzoeken wat de handigste manier is om om te gaan met methods met optionele parameters, en methods met parameters die default waarden hebben... er zijn veel manieren om method overloaden te bereiken, wat is de handigste?
 * In Intellij onder New Project Settings in het File menu zou het toch mogelijk moeten zijn altijd een .gitignore te hebben?
-
+* JavaFX + Scenebuilder
 
 
 Meer CSS3 en HTML5 leren:
