@@ -14,6 +14,7 @@
 * Java + Firebase https://firebase.google.com/support/release-notes/admin/java
 https://firebase.google.com/docs/firestore/server/samples-java
 https://github.com/googleapis/java-firestore/tree/master/samples/snippets
+* Java naming conventions https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html#367
 
 
 
