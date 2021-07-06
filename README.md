@@ -15,7 +15,7 @@
 https://firebase.google.com/docs/firestore/server/samples-java
 https://github.com/googleapis/java-firestore/tree/master/samples/snippets
 * Java naming conventions https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html#367
-
+* Java benchmarking http://tutorials.jenkov.com/java-performance/jmh.html
 
 
 Meer CSS3 en HTML5 leren:
