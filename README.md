@@ -1,6 +1,6 @@
 # 2does
 
-* Leren API key verstoppen (google "hide api key from github")
+* <s>Leren API key verstoppen (google "hide api key from github")</s> -- gedaan met System.getenv
 * JSON parsen met Jackson o.i.d.
 * BlankSlate thema aanpassen en toevoegen aan Github 
 * Handig worden met YouTrack & Github Issues
