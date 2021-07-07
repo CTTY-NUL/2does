@@ -7,10 +7,9 @@
 * Github pages 2dolijst maken, mbv Github Pages
 * Bitnami Tomcat geinstalleerd, uitzoeken hoe dat werkt? Of kan ik em beter deinstalleren en met de HelloWorld verder?
 * https://github.com/hogeschoolnovi bij de rest kijken, wat is https://github.com/hogeschoolnovi/BootcampGitWorkshop/blob/master/hoofdstuk%202.txt
-* GUI applicaties leren
 * *Method Overloading*: uitzoeken wat de handigste manier is om om te gaan met methods met optionele parameters, en methods met parameters die default waarden hebben... er zijn veel manieren om method overloaden te bereiken, wat is de handigste?
 * In Intellij onder New Project Settings in het File menu zou het toch mogelijk moeten zijn altijd een .gitignore te hebben?
-* JavaFX + Scenebuilder
+* JavaFX + Scenebuilder GUI applicaties leren
 * Java + Firebase https://firebase.google.com/support/release-notes/admin/java
 https://firebase.google.com/docs/firestore/server/samples-java
 https://github.com/googleapis/java-firestore/tree/master/samples/snippets
