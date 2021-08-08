@@ -15,6 +15,14 @@ https://firebase.google.com/docs/firestore/server/samples-java
 https://github.com/googleapis/java-firestore/tree/master/samples/snippets
 * Java naming conventions https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html#367
 * Java benchmarking http://tutorials.jenkov.com/java-performance/jmh.html
+* Java Markov Chain https://www.google.com/search?q=markov+chain+generator+java&oq=markov+chain+generator+java&aqs=chrome..69i57j0i22i30l3.4175j0j7&sourceid=chrome&ie=UTF-8
+https://rosettacode.org/wiki/Markov_chain_text_generator#Java
+https://gist.github.com/veryphatic/3190969
+https://github.com/mmkerai/Markov-Chains
+https://github.com/mmkerai/Markov-Chains/blob/master/Markov.java
+https://codereview.stackexchange.com/questions/163319/generating-text-from-a-markov-chain-in-java
+https://stackoverflow.com/questions/27922290/markov-text-generating
+https://stackoverflow.com/questions/5825301/java-how-to-think-about-modelling-a-markov-chain
 
 
 Meer CSS3 en HTML5 leren:
